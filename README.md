@@ -1,0 +1,2 @@
+# Kripto_erken_sinyalbot
+Erkensinyalbotu
