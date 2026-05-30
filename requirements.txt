@@ -2,4 +2,3 @@ ccxt
 pandas
 pandas-ta
 python-telegram-bot
-mini-lzo
